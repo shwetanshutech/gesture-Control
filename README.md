@@ -17,3 +17,9 @@ Gesture✋ Control Laptop using 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐚𝐧𝐝 𝐏�
 
 ## CODE EXECUTION
 <img src ="./CODE_execution1.png" width="500">
+
+
+## TECH USED 
+* ARDUINO UNO
+* ULTRA SONIC SENSOR
+* Python -pyautogui module to establish serial communication with Arduino
