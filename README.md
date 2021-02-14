@@ -13,7 +13,10 @@ Gesture✋ Control Laptop using 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐚𝐧𝐝 𝐏�
 |`Left hand placed and moved`  | Volume ++ if push & Volume-- if pull  🔉   |
 
 ## SETUP -HARDWARE 
-<img src="./HARDWARE _setup1.png" width="500">    <img src="./HARDWARE _setup2.png" width="500">
+<img src="./HARDWARE _setup1.png" width="500">    
+
+
+<img src="./HARDWARE _setup2.png" width="500">
 
 ## CODE EXECUTION
 <img src ="./CODE_execution1.png" width="500">
