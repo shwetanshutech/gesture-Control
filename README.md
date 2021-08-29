@@ -25,4 +25,5 @@ Gesture✋ Control Laptop using 𝐀𝐫𝐝𝐮𝐢𝐧𝐨 𝐚𝐧𝐝 𝐏�
 ## TECH USED 
 * ARDUINO UNO
 * ULTRA SONIC SENSOR
-* Python -pyautogui module to establish serial communication with Arduino
+* Python -pyserial library to establish serial communication with serial ports
+* PyAutoGUI- read the Serial data from Arduino and invoke certain keyboard key presses
